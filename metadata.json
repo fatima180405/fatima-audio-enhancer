@@ -1,0 +1,6 @@
+{
+  "name": "Chuyển Đổi Âm Thanh MP3",
+  "description": "Ứng dụng chuyển đổi file WAV, OGG, FLAC, M4A, WEBM, AAC sang MP3 nhanh chóng và bảo mật ngay trên trình duyệt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
